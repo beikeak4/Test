@@ -6,6 +6,7 @@ public class comment {
         //
         System.out.println("This is a comment");
         System.out.println("This is a comment");
+        System.out.println("This is new comment");
     }
 
 }
